@@ -1,5 +1,6 @@
 # Проект "Инвентарь книжного магазина"
-
+https://colab.research.google.com/drive/16iZ0gfc9yj_uJnT_IJYrWkgOiAuhLCwv?usp=sharing
+https://disk.yandex.ru/i/ckMgjmhjUEWDvw
 
 Этот проект разработан для демонстрации управления инвентарем книжного магазина с использованием Python.
 
